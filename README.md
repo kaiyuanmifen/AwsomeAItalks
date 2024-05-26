@@ -15,3 +15,5 @@ Reid AI, AI simulated Reif Hoffman: https://www.youtube.com/watch?v=rgD2gmwCS10
 
 
 Geoffrey Hinton: choosing problems and power of intuition: https://www.youtube.com/watch?v=n4IQOBka8bc
+
+Max Tegmark, superhuman AI https://www.youtube.com/watch?v=_-Xdkzi8H_o
