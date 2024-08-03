@@ -19,3 +19,6 @@ Geoffrey Hinton: choosing problems and power of intuition: https://www.youtube.c
 Max Tegmark, superhuman AI https://www.youtube.com/watch?v=_-Xdkzi8H_o
 
 Marcus Hutter | Universal Artificial Intelligence and Solomonoff Induction :https://www.youtube.com/watch?v=7TgOwMW_rnk
+
+
+Generative models with iterative refinement: https://www.youtube.com/watch?v=9BHQvQlsVdE
