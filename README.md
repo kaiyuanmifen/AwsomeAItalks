@@ -22,3 +22,5 @@ Marcus Hutter | Universal Artificial Intelligence and Solomonoff Induction :http
 
 
 Generative models with iterative refinement: https://www.youtube.com/watch?v=9BHQvQlsVdE
+
+Insight into intelligence, Richard Sutton: https://www.youtube.com/watch?v=n4aev-6Z6U4&t=495s
